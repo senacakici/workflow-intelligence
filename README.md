@@ -174,8 +174,4 @@ Combined: 289 of 305 unlabeled records got a label (94.8% coverage).
 - Streamlit
 - Matplotlib
 
----
 
-## Contact
-
-[Your Name] · [LinkedIn] · [GitHub]
