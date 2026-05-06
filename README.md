@@ -1,6 +1,6 @@
 # Workflow Intelligence Engine
 
-I built this to understand how workforce analytics platforms work under the hood — specifically the part where raw activity logs get turned into something useful without requiring someone to manually label thousands of rows.
+I built this to understand how workforce analytics platforms work under the hood specifically the part where raw activity logs get turned into something useful without requiring someone to manually label thousands of rows.
 
 The dataset is simulated (1200 employee activity records across 5 teams), but the pipeline is real: text classification, weak supervision for pre-labeling, anomaly detection for workload spikes, a FastAPI endpoint, and a Streamlit dashboard to tie it together.
 
